@@ -1,0 +1,13 @@
+1-Write a script with check functions, convert the text files into mysqldb
+2-Insert/Delete/Query
+
+Query:
+Invoice ID: ---
+Invoice date: ----
+Customer name: ----
+Details:
+Product ID		Quantity	unit price	Total product 
+--			--		--		--
+--			--		--		--
+---------------------------------------------------------------------
+Invoice total: ----
